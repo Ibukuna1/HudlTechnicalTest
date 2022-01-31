@@ -1,0 +1,13 @@
+Build Instructions
+
+Recommended :
+Use either IntelliJ IDE or Ecplise IDE
+
+The code project file is named as : HudlTechnicalTest 
+
+1. Import the project file folder in the IDE
+2. Select the POM.XML and import the sources / Download the sources
+3. Mark the resources folder as Test Resources root
+3. Open the file CukesRunner
+4. Select the run icon (ensure that the class it's run from is config.CukesRunner)
+5. The test results will be displayed in the Run Log, and also in the Event Log
